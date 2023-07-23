@@ -1,0 +1,4 @@
+openai~=0.27.8
+python-dotenv~=1.0.0
+aiogram~=2.25.1
+Flask~=2.3.2
